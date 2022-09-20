@@ -1,4 +1,4 @@
-# payment-gateway-integration
+# Payment-Gateway-Integration
 # Features
  A simple website where payment gateway is integrated.
 
