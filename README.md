@@ -7,3 +7,8 @@
 ◇ Once the payment is done and invoice will be generated and email will be sent to the user for the payment received. The invoice will contain the amount.
 
 ◇ On any page / email, only basic information is needed.
+
+# Tech Stack
+Languages Used: HTML, CSS, BOOTSTRAP, JAVASCRIPT
+
+Payement: RazorPay
